@@ -3,7 +3,7 @@ Criando um plano de estudos em Java
 
 **Lista de modulos introdutorios**
 
-- [ ] Introdução à Plataforma Java
+- [x] Introdução à Plataforma Java
 - [ ] Ambiente de Desenvolvimento Java
 - [ ] Aprendendo a Sintaxe Java
 - [ ] Lógica Condicional e Controle de Fluxos em Java
